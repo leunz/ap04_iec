@@ -1,14 +1,14 @@
-UNIPAMPA - Universidade Federal do Pampa
+**UNIPAMPA - Universidade Federal do Pampa
 Campus Bagé
 
 Componente curricular: Introdução à Engenharia de Computação
 Docente: Fabio Ramos
 
-Discentes: Adir Leonardo Arruda Brasil, Guilherme da Silva Barboza e Pedro Repolho de Jesus
+Discentes: Adir Leonardo Arruda Brasil, Guilherme da Silva Barboza e Pedro Repolho de Jesus**
 
 -----------------------------------------------------------------------------------------------
 
-Atividade Prática 04 - Tarefa Linux e Git
+**Atividade Prática 04 - Tarefa Linux e Git**
 
 1 - Baixar o repositório do software de referência do VVC (Versatile Video Coding) via Git em https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM
 

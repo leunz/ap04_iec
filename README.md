@@ -1,10 +1,10 @@
-**UNIPAMPA - Universidade Federal do Pampa
-Campus Bagé
+**UNIPAMPA - Universidade Federal do Pampa**
+**Campus Bagé**
 
-Componente curricular: Introdução à Engenharia de Computação
-Docente: Fabio Ramos
+**Componente curricular: Introdução à Engenharia de Computação**
+**Docente: Fabio Ramos**
 
-Discentes: Adir Leonardo Arruda Brasil, Guilherme da Silva Barboza e Pedro Repolho de Jesus**
+**Discentes: Adir Leonardo Arruda Brasil, Guilherme da Silva Barboza e Pedro Repolho de Jesus**
 
 -----------------------------------------------------------------------------------------------
 
